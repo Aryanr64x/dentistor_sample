@@ -1,4 +1,4 @@
-import Tilt from "react-tilt";
+import Tilt from "react-parallax-tilt";
 const Doctors = ()=>{
     return (
         <section className="container section">
