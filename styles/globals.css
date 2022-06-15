@@ -1,5 +1,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Expletus+Sans:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+.title{
+    font-family: 'Righteous', 'cursive';
+        text-decoration: none;
+}
+ 
 html, body{
     overflow-x: hidden;
 
@@ -9,11 +16,7 @@ body{
     overflow-y: hidden;
 }
 
-.title{
-    font-family: 'Expletus Sans', cursive;
-    text-decoration: none;
-}
- 
+
 
 .hamburger {
     height: 24px;     
