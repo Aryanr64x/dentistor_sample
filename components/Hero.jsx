@@ -12,7 +12,7 @@ const Hero = ()=>{
             <div className="navbar navbar-expand-lg ">
                 <div className="container">
                     <a className="display-6 text-white title ">
-                        JYOTI DENTAL CLINIC
+                        Clinic Name
                     </a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -34,14 +34,14 @@ const Hero = ()=>{
             </div>
             <div className="row ms-lg-5 mt-5 mt-lg-0">
                 <div className="col-lg-6 d-flex flex-column justify-content-center ">
-                    <div className="display-3 title fw-bold text-center text-lg-start" data-aos="flip-down">
+                    <div className="display-3 title fw-bold text-center text-lg-start" >
                         <span className="text-secondary ">
                         Say GoodBye!
                             </span> To All your dental Problems
                     </div>
                     <div className="h4 mt-2  text-center text-lg-start "  data-aos="fade-down">
-                        Our Dental Clinic equipped w ith the latest
-                        Tech will provide you the most wholesome dental care experience
+                     Our dental clinic which is equipped with the latest technology will provide 
+                     you with the most wholesome dental care experience . 
                     </div>
                     <div className="mt-3 mt-lg-5 d-flex justify-content-lg-start justify-content-center">
                         <button className="btn btn-light text-primary fw-bold"> Find Us </button>
